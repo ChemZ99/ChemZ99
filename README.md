@@ -20,7 +20,7 @@ SKILLS
   </div>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim](https://skillicons.dev/icons?i=html,css,sass,js,java,c,discord,git,github,stackoverflow,postman,nodejs,postgres,react,redux,bootstrap,spring,maven,idea,vscode&perline=10)" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,js,java,c,discord,git,github,stackoverflow,postman,nodejs,postgres,react,redux,bootstrap,spring,maven,idea,vscode&perline=10)" />
   </a>
 </div>
 
