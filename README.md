@@ -18,6 +18,6 @@
 <div align="center">
 SKILLS
   </div>
-<div align="center">
+
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,java,c,discord,git,github,stackoverflow,postman,nodejs,postgres,react,redux,bootstrap,spring,maven,idea,vscode&perline=10)](https://skillicons.dev)
-</div>
+
