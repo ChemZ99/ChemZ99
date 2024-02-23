@@ -18,9 +18,9 @@
 <div align="center">
 SKILLS
   </div>
-<div align="center">
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,js,java,c,discord,git,github,stackoverflow,postman,nodejs,postgres,react,redux,bootstrap,spring,maven,idea,vscode&perline=10)" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,js,java,c,discord,git,github,stackoverflow,postman,nodejs,postgres,react,redux,bootstrap,spring,maven,idea,vscode&perline=10" />
   </a>
-</div>
+</p>
 
